@@ -1,3 +1,8 @@
+![Screenshot (307)](https://github.com/sunphoenix1707/Nodejs-simpledashboard/assets/114605699/1c5bb2d9-9465-46f5-b2f8-0c6aeb8278d4)
+![Screenshot (312)](https://github.com/sunphoenix1707/Nodejs-simpledashboard/assets/114605699/e2d4e03d-88fa-4c93-9976-5d131ae548e8)
+![Screenshot (313)](https://github.com/sunphoenix1707/Nodejs-simpledashboard/assets/114605699/712b230d-f454-4788-b036-5614e4b39fec)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
